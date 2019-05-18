@@ -24,7 +24,7 @@ For any feedback, bug report, new update, request and whatnot, find me on Telegr
 - @topjohnwu for Magisk
 
 ## LICENSE
-Copyright © 2018 NaeemBolchhi. Licensed under the GNU General Public License v3.
+Copyright © 2019 NaeemBolchhi. Licensed under the GNU General Public License v3.
 
 ## Source Code
 * Module [GitHub](https://github.com/NaeemBolchhi/font-freak)
