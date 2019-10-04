@@ -32,3 +32,4 @@ Copyright © 2019 NaeemBolchhi. Licensed under the GNU General Public License v3
 ## Links
 - Reach NaeemBolchhi on [Telegram](https://t.me/NaeemBolchhi)
 - Reach MahmudSazzad on [Telegram](https://t.me/MahmudSazzad)
+- Join [Telegram Group](https://t.me/MahmudSazzad)
